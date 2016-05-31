@@ -10,11 +10,8 @@ Plug 'scrooloose/nerdtree'
 Plug 'scrooloose/nerdcommenter'
 Plug 'scrooloose/nerdcommenter'
 Plug 'vim-ctrlspace/vim-ctrlspace'
-Plug 'freeo/vim-kalisi'
 Plug 'fatih/vim-go'
 Plug 'majutsushi/tagbar'
 Plug 'croaker/mustang-vim'
-Plug 'altercation/vim-colors-solarized'
-Plug 'sickill/vim-monokai'
 call plug#end()
 
