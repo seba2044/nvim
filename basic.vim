@@ -43,7 +43,7 @@ set lazyredraw   " Don't redraw when not needed
 set laststatus=2 " Always show the status line
 set scrolloff=10 " Keep cursor from reaching end of screen
 set noshowmode   " Hide the mode on last line as we use Vim Airline
-
+"set termguicolors
 syntax enable
 let $NVIM_TUI_ENABLE_TRUE_COLOR=1
 set background=dark

@@ -13,5 +13,6 @@ Plug 'vim-ctrlspace/vim-ctrlspace'
 Plug 'fatih/vim-go'
 Plug 'majutsushi/tagbar'
 Plug 'croaker/mustang-vim'
+"Plug 'jdkanani/vim-material-theme'
 call plug#end()
 
