@@ -46,7 +46,7 @@ set noshowmode   " Hide the mode on last line as we use Vim Airline
 "set termguicolors
 syntax enable
 let $NVIM_TUI_ENABLE_TRUE_COLOR=1
-set background=dark
+set background=light
 colorscheme mustang
 
 "Mouse
@@ -57,7 +57,7 @@ set mouse=a		"mouse in all mode
 "Search
 ""----------------------------------------------------------------
 set incsearch           " do incremental searching
-set hlsearch
+set nohlsearch
 set ignorecase " case insensitive searching
 set smartcase " case-sensitive if expresson contains a capital letter
 set magic " Enable extended regexes.a

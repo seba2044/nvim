@@ -5,5 +5,5 @@ runtime! key.vim
 
 " auto start
 autocmd VimEnter * NERDTree
-autocmd VimEnter * TagbarToggle
+"autocmd VimEnter * TagbarToggle
 
